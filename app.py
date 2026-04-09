@@ -23,5 +23,4 @@ def compute():
     except:
         return "NaN"
 
-if __name__ == "__main__":
     app.run()
